@@ -14,6 +14,24 @@
     {
       "title": "Collection 1",
       "publications": [
+                {
+          "path":"fragment-sbj-10",
+          "author":"Auctores varii: Athenaeus Naucratites; Polybius; Dionysius Halicarnassensis",
+          "work":"Opera varia: fragmenta sententiarum cum SBJ (Deipnosophistae 13; Historiae 6, 9, 10; Antiquitates Romanae 1",
+          "editors":"Vanessa Gorman, Neven Jovanović",
+          "sections":[
+            {
+              "locus":"1-10",
+              "path":"fragment-SBJ-10-1-10",
+              "xml":"SBJ-desc-s10.xml",
+              "notes":"Dijelovi rečenice: subjekt s njemu nadređenim i podređenim elementima.",
+              "chunks":{
+                "start":1,
+                "end":10
+              }
+            }
+          ]
+        },
         {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
