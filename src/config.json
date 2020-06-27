@@ -33,6 +33,24 @@
           ]
         },
         {
+          "path":"ps-xen-2-14-2-16",
+          "author":"Pseudo-Xenophon (urn:cts:greekLit:tlg0032.tlg015)",
+          "work":"Respublica Atheniensium, 2.14-2.16",
+          "editors":"E. C. Marchant, Neven Jovanović, Beata Kovačević",
+          "sections":[
+            {
+              "locus":"1-10",
+              "path":"ps-xen-2-14-2-16",
+              "xml":"tlg0032-tlg015-ffzghr-pos_14-16.xml",
+              "notes":"Samo gramatički komentar, bez sintaktičkog.",
+              "chunks":{
+                "start":1,
+                "end":10
+              }
+            }
+          ]
+        },
+        {
           "path": "on-the-murder-of-eratosthenes",
           "author": "Lysias",
           "work": "On the Murder of Eratosthenes",
