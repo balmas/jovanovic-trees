@@ -29,18 +29,6 @@
       <address>filologanoga@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/nevenjovanovic</uri>
   </annotator>
-   <bibl>
-      <name>Pseudo-Xenophontis Respublica Atheniensium, 2.14-2.16</name>
-      <urn>urn:cite2:tb:unizghr.ffzghrpos:xenophonrespublicaathen</urn>
-      <license>Creative Commons Attribution 4.0 International (CC BY 4.0)  https://creativecommons.org/licenses/by/4.0/</license>
-      <citscheme>caput,paragraphus,sententia,membrum</citscheme>
-      <grpname>Pseudo-Xenophon</grpname>
-      <worktitle>Respublica Atheniensium</worktitle>
-      <verlabel>Ex editione E. C. Marchant, 1920, in collectione OGL</verlabel>
-      <exemplarlabel>tokenized</exemplarlabel>
-      <online>true</online>
-      <lang>grc</lang>
-   </bibl>
    <sentence id="1" document_id="urn:cts:greekLit:tlg0032.tlg015.ffzghr-pos:" subdoc="2.14" span="">
       <word id="1" form="ἑνὸς" lemma="εἷς" postag="n-s---ng-" relation="" head=""/>
       <word id="2" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
