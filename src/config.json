@@ -12,7 +12,7 @@
       "text": "The Treebank Template is maintained by the Perseids Project. See the [getting started instructions](/getting-started/). Or visit [our homepage](https://www.perseids.org) to learn more."
     },
     {
-      "title": "Collection 1",
+      "title": "Textus scholastici Zagrabienses",
       "publications": [
                 {
           "path":"fragment-sbj-10",
@@ -28,6 +28,24 @@
               "chunks":{
                 "start":1,
                 "end":10
+              }
+            }
+          ]
+        },
+        {
+          "path":"diod-bibl-1-8",
+          "author":"Diodorus Siculus (urn:cts:greekLit:tlg0060)",
+          "work":"Bibliotheca historica, 1.8.5-1.8.8 (urn:cts:greekLit:tlg0060.tlg001)",
+          "editors":"Ex editione Frederici Vogel, Klara Radovniković, Neven Jovanović",
+          "sections":[
+            {
+              "locus":"1-5",
+              "path":"diod-bibl-1-8",
+              "xml":"tlg0060-tlg001-ffzghr-pos_8-5-8-8.xml",
+              "notes":"Samo gramatički komentar, bez sintaktičkog.",
+              "chunks":{
+                "start":1,
+                "end":5
               }
             }
           ]
