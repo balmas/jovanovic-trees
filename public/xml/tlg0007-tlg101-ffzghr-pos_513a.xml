@@ -23,7 +23,7 @@
       <address>filologanoga@gmail.com</address>
       <uri>http://data.perseus.org/sosol/users/nevenjovanovic</uri>
   </annotator>
-   <sentence id="1" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="1" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="Ἔστι" lemma="εἰμί" postag="v3spia---" relation="" head=""/>
       <word id="2" form="τοίνυν" lemma="τοίνυν" postag="d--------" relation="" head=""/>
       <word id="3" form="τρία" lemma="τρεῖς" postag="m-p---nn-" relation="" head=""/>
@@ -45,7 +45,7 @@
       <word id="19" form="περισσόν" lemma="περισσός" postag="a-s---nn-" relation="" head=""/>
       <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="2" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="2" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="οἷον" lemma="οἷος" postag="a-s---nn-" relation="" head=""/>
       <word id="2" form="πυθομένου" lemma="πυνθάνομαι" postag="v-sapmmg-" relation="" head=""/>
       <word id="3" form="τινὸς" lemma="τις" postag="p-s----g-" relation="" head=""/>
@@ -80,7 +80,7 @@
       <word id="36" form="ἀπόφασιν" lemma="ἀπόφασις1" postag="n-s---fa-" relation="" head=""/>
       <word id="37" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="3" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="3" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="ὡς" lemma="ὡς" postag="c--------" relation="" head=""/>
       <word id="2" form="ἐκεῖνοι" lemma="ἐκεῖνος" postag="p-p---mn-" relation="" head=""/>
       <word id="3" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
@@ -100,7 +100,7 @@
       <word id="19" form="ἀπέστειλαν" lemma="ἀποστέλλω" postag="v3paia---" relation="" head=""/>
       <word id="20" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="4" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="4" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="" head=""/>
       <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="" head=""/>
       <word id="3" form="φιλανθρωπότερον" lemma="φιλάνθρωπον" postag="d-------c" relation="" head=""/>
@@ -122,7 +122,7 @@
       <word id="22" form="περιμένων" lemma="περιμένω" postag="v-sppamn-" relation="" head=""/>
       <word id="23" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="5" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="5" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="" head=""/>
       <word id="2" form="δὲ" lemma="δέ" postag="c--------" relation="" head=""/>
       <word id="3" form="περιττὸς" lemma="περισσός" postag="a-s---mn-" relation="" head=""/>
@@ -184,7 +184,7 @@
       <word id="62" form="Ἀθηναίοις" lemma="Ἀθηναῖος" postag="a-p---md-" relation="" head=""/>
       <word id="63" form="·" lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
    </sentence>
-   <sentence id="6" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513a" span="">
+   <sentence id="6" document_id="urn:cts:greekLit:tlg0007.tlg101.ffzghr-pos:" subdoc="513" span="">
       <word id="1" form="ὁ" lemma="ὁ" postag="l-s---mn-" relation="" head=""/>
       <word id="2" form="γὰρ" lemma="γάρ" postag="d--------" relation="" head=""/>
       <word id="3" form="Ἀλκιβιάδης" lemma="Ἀλκιβιάδης" postag="n-s---mn-" relation="" head=""/>
