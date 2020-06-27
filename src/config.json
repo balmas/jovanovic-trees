@@ -33,6 +33,24 @@
           ]
         },
         {
+          "path":"plut-garr-513a",
+          "author":"Plutarchus (urn:cts:greekLit:tlg0007)",
+          "work":"De garrulitate 513a (urn:cts:greekLit:tlg0007.tlg101)",
+          "editors":"Ex editione Gregorii N. Vernardakes, Neven Jovanović",
+          "sections":[
+            {
+              "locus":"1-10",
+              "path":"ps-xen-2-14-2-16",
+              "xml":"tlg0007-tlg101-ffzghr-pos_513a.xml",
+              "notes":"Samo gramatički komentar, bez sintaktičkog.",
+              "chunks":{
+                "start":1,
+                "end":6
+              }
+            }
+          ]
+        },
+        {
           "path":"ps-xen-2-14-2-16",
           "author":"Pseudo-Xenophon (urn:cts:greekLit:tlg0032.tlg015)",
           "work":"Respublica Atheniensium, 2.14-2.16",
