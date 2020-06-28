@@ -80,4 +80,70 @@
     <word id='2' form='Τίμαιος' lemma='Τίμαιος' postag='n-s---mn-' relation='SBJ' head='3'/>
     <word id='3' form='ἐσύλησε' lemma='συλάω' postag='v3saia---' relation='PRED_CO' head=''/>
   </sentence>
+  <sentence id="11" document_id="urn:cts:greekLit:tlg0060.tlg001.ffzghr-pos:" subdoc="1.8.5" span="">
+    <word id="1" form="Τοὺς" lemma="ὁ" postag="l-p---ma-" relation="" head=""/>
+    <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="" head=""/>
+    <word id="3" form="πρώτους" lemma="πρῶτος" postag="a-p---ma-" relation="" head=""/>
+    <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="" head=""/>
+    <word id="5" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="" head=""/>
+    <word id="6" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="" head=""/>
+    <word id="7" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="" head=""/>
+    <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="" head=""/>
+    <word id="9" form="βίον" lemma="βίος" postag="n-s---ma-" relation="" head=""/>
+    <word id="10" form="χρησίμων" lemma="χρήσιμος" postag="a-p---ng-" relation="" head=""/>
+    <word id="11" form="εὑρημένου" lemma="εὑρίσκω" postag="v-srpeng-" relation="" head=""/>
+    <word id="12" form="ἐπιπόνως" lemma="ἐπιπόνως" postag="d-------p" relation="" head=""/>
+    <word id="13" form="διάγειν" lemma="διάγω" postag="v--pna---" relation="" head=""/>
+    <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="15" form="γυμνοὺς" lemma="γυμνός" postag="a-p---ma-" relation="" head=""/>
+    <word id="16" form="μὲν" lemma="μέν" postag="d--------" relation="" head=""/>
+    <word id="17" form="ἐσθῆτος" lemma="ἐσθής" postag="n-s---fg-" relation="" head=""/>
+    <word id="18" form="ὄντας" lemma="εἰμί" postag="v-pppama-" relation="" head=""/>
+    <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="20" form="οἰκήσεως" lemma="οἴκησις" postag="n-s---fg-" relation="" head=""/>
+    <word id="21" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+    <word id="22" form="καὶ" lemma="καί" postag="c--------" relation="" head=""/>
+    <word id="23" form="πυρὸς" lemma="πῦρ" postag="n-s---ng-" relation="" head=""/>
+    <word id="24" form="ἀήθεις" lemma="ἀήθης" postag="a-p---ma-" relation="" head=""/>
+    <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="26" form="τροφῆς" lemma="τροφή" postag="n-s---fg-" relation="" head=""/>
+    <word id="27" form="δ’" lemma="δέ" postag="d-------p" relation="" head=""/>
+    <word id="28" form="ἡμέρου" lemma="ἥμερος" postag="a-s---fgp" relation="" head=""/>
+    <word id="29" form="παντελῶς" lemma="παντελῶς" postag="d-------p" relation="" head=""/>
+    <word id="30" form="ἀνεννοήτους" lemma="ἀνεννόητος" postag="a-p---ma-" relation="" head=""/>
+    <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
+  <sentence id="12" document_id="urn:cts:greekLit:tlg0060.tlg001.ffzghr-pos:" subdoc="1.8.5" span="">
+    <word id="1" form="Τοὺς" lemma="ὁ" postag="l-p---ma-" relation="" head="3"/>
+    <word id="2" form="οὖν" lemma="οὖν" postag="d--------" relation="" head=""/>
+    <word id="3" form="πρώτους" lemma="πρῶτος" postag="a-p---ma-" relation="" head="13"/>
+    <word id="4" form="τῶν" lemma="ὁ" postag="l-p---mg-" relation="" head="5"/>
+    <word id="5" form="ἀνθρώπων" lemma="ἄνθρωπος" postag="n-p---mg-" relation="" head="3"/>
+    <word id="6" form="μηδενὸς" lemma="μηδείς" postag="p-s----g-" relation="" head=""/>
+    <word id="7" form="τῶν" lemma="ὁ" postag="l-p---ng-" relation="" head="10"/>
+    <word id="8" form="πρὸς" lemma="πρός" postag="r--------" relation="" head="10"/>
+    <word id="9" form="βίον" lemma="βίος" postag="n-s---ma-" relation="" head="8"/>
+    <word id="10" form="χρησίμων" lemma="χρήσιμος" postag="a-p---ng-" relation="" head="6"/>
+    <word id="11" form="εὑρημένου" lemma="εὑρίσκω" postag="v-srpeng-" relation="" head=""/>
+    <word id="12" form="ἐπιπόνως" lemma="ἐπιπόνως" postag="d-------p" relation="" head="13"/>
+    <word id="13" form="διάγειν" lemma="διάγω" postag="v--pna---" relation="" head="0"/>
+    <word id="14" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="15" form="γυμνοὺς" lemma="γυμνός" postag="a-p---ma-" relation="18" head=""/>
+    <word id="16" form="μὲν" lemma="μέν" postag="d--------" relation="" head=""/>
+    <word id="17" form="ἐσθῆτος" lemma="ἐσθής" postag="n-s---fg-" relation="15" head=""/>
+    <word id="18" form="ὄντας" lemma="εἰμί" postag="v-pppama-" relation="" head="3"/>
+    <word id="19" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="20" form="οἰκήσεως" lemma="οἴκησις" postag="n-s---fg-" relation="22" head=""/>
+    <word id="21" form="δὲ" lemma="δέ" postag="d--------" relation="" head=""/>
+    <word id="22" form="καὶ" lemma="καί" postag="c--------" relation="" head="24"/>
+    <word id="23" form="πυρὸς" lemma="πῦρ" postag="n-s---ng-" relation="" head="22"/>
+    <word id="24" form="ἀήθεις" lemma="ἀήθης" postag="a-p---ma-" relation="" head="3"/>
+    <word id="25" form="," lemma="punc1" postag="u--------" relation="AuxX" head="0"/>
+    <word id="26" form="τροφῆς" lemma="τροφή" postag="n-s---fg-" relation="" head="30"/>
+    <word id="27" form="δ’" lemma="δέ" postag="d-------p" relation="" head=""/>
+    <word id="28" form="ἡμέρου" lemma="ἥμερος" postag="a-s---fgp" relation="" head="26"/>
+    <word id="29" form="παντελῶς" lemma="παντελῶς" postag="d-------p" relation="" head="30"/>
+    <word id="30" form="ἀνεννοήτους" lemma="ἀνεννόητος" postag="a-p---ma-" relation="3" head=""/>
+    <word id="31" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+  </sentence>
 </treebank>
