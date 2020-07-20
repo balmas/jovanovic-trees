@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/treebank-template/static/css/main.bd98509e.chunk.css",
-    "main.js": "/treebank-template/static/js/main.99f41fb2.chunk.js",
-    "main.js.map": "/treebank-template/static/js/main.99f41fb2.chunk.js.map",
-    "runtime-main.js": "/treebank-template/static/js/runtime-main.94c54c7b.js",
-    "runtime-main.js.map": "/treebank-template/static/js/runtime-main.94c54c7b.js.map",
-    "static/css/2.0379961b.chunk.css": "/treebank-template/static/css/2.0379961b.chunk.css",
-    "static/js/2.0457485e.chunk.js": "/treebank-template/static/js/2.0457485e.chunk.js",
-    "static/js/2.0457485e.chunk.js.map": "/treebank-template/static/js/2.0457485e.chunk.js.map",
-    "index.html": "/treebank-template/index.html",
-    "precache-manifest.ad2886c3444f1d2f732d507e328887b8.js": "/treebank-template/precache-manifest.ad2886c3444f1d2f732d507e328887b8.js",
-    "service-worker.js": "/treebank-template/service-worker.js",
-    "static/css/2.0379961b.chunk.css.map": "/treebank-template/static/css/2.0379961b.chunk.css.map",
-    "static/css/main.bd98509e.chunk.css.map": "/treebank-template/static/css/main.bd98509e.chunk.css.map",
-    "static/js/2.0457485e.chunk.js.LICENSE.txt": "/treebank-template/static/js/2.0457485e.chunk.js.LICENSE.txt"
+    "main.css": "/jovanovic-trees/static/css/main.bd98509e.chunk.css",
+    "main.js": "/jovanovic-trees/static/js/main.502fbe05.chunk.js",
+    "main.js.map": "/jovanovic-trees/static/js/main.502fbe05.chunk.js.map",
+    "runtime-main.js": "/jovanovic-trees/static/js/runtime-main.94846cfd.js",
+    "runtime-main.js.map": "/jovanovic-trees/static/js/runtime-main.94846cfd.js.map",
+    "static/css/2.0379961b.chunk.css": "/jovanovic-trees/static/css/2.0379961b.chunk.css",
+    "static/js/2.0457485e.chunk.js": "/jovanovic-trees/static/js/2.0457485e.chunk.js",
+    "static/js/2.0457485e.chunk.js.map": "/jovanovic-trees/static/js/2.0457485e.chunk.js.map",
+    "index.html": "/jovanovic-trees/index.html",
+    "precache-manifest.9b5acae579213e33aec0dff059bf43f9.js": "/jovanovic-trees/precache-manifest.9b5acae579213e33aec0dff059bf43f9.js",
+    "service-worker.js": "/jovanovic-trees/service-worker.js",
+    "static/css/2.0379961b.chunk.css.map": "/jovanovic-trees/static/css/2.0379961b.chunk.css.map",
+    "static/css/main.bd98509e.chunk.css.map": "/jovanovic-trees/static/css/main.bd98509e.chunk.css.map",
+    "static/js/2.0457485e.chunk.js.LICENSE.txt": "/jovanovic-trees/static/js/2.0457485e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.94c54c7b.js",
+    "static/js/runtime-main.94846cfd.js",
     "static/css/2.0379961b.chunk.css",
     "static/js/2.0457485e.chunk.js",
     "static/css/main.bd98509e.chunk.css",
-    "static/js/main.99f41fb2.chunk.js"
+    "static/js/main.502fbe05.chunk.js"
   ]
 }
