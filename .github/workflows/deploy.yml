@@ -19,7 +19,9 @@ jobs:
         run: yarn install
 
       - name: Build
-        run: PUBLIC_URL = '/jovanovic-trees' yarn build
+        env: 
+          PUBLIC_URL: "/jovanovic-trees"
+        run: yarn build
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
